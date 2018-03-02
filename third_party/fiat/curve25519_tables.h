@@ -1,4 +1,4 @@
-// The MIT License (MIT)
+﻿// The MIT License (MIT)
 //
 // Copyright (c) 2015-2016 the fiat-crypto authors (see the AUTHORS file).
 //
